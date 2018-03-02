@@ -1,0 +1,63 @@
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Bot Application.dll.config
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Bot Application.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Bot Application.pdb
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Autofac.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Chronic.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.Bot.Builder.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.Bot.Connector.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Newtonsoft.Json.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\System.Net.Http.Formatting.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\System.Web.Http.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\System.Web.Http.WebHost.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Autofac.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.Bot.Builder.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.Bot.Connector.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\Newtonsoft.Json.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\System.Net.Http.Formatting.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\System.Web.Http.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\System.Web.Http.WebHost.xml
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\obj\Release\PizzariaHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\obj\Release\PizzariaHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\obj\Release\Bot Application.dll
+C:\Users\Alexsandro\OneDrive\cursos\Bots\Projetos\MaratonaBotsPizzariaQna\MaratonaBotsPizzariaQna\obj\Release\Bot Application.pdb
